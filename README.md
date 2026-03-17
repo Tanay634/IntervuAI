@@ -361,7 +361,7 @@ PlanFeaturesFree 3 interviews/month, <br/>
 # Author
 ### Tanay Kumar Thakur 
 B.Tech @ BIT Durg <br />
-AI/ML Engineer| AI Enthusiast <br />
+AI/ML Engineer | AI Enthusiast <br />
 <!-- <img href="https://www.linkedin.com/in/tanay-kumar-thakur-397b4b291/" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" alt="LinkedIn"> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/tanay-kumar-thakur-397b4b291//)
 ---
